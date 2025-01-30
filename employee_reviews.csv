@@ -1,0 +1,251 @@
+Review ID,Employee Role,Department,Review Text,Sentiment
+1,UX Designer,IT,"Opportunities for growth exist, but require patience.",Neutral
+2,Customer Support,Finance,Teamwork and collaboration are highly valued here.,Positive
+3,Product Manager,HR,Good pay and benefits. Flexible working hours.,Positive
+4,Project Manager,Operations,Supportive management and opportunities for growth.,Positive
+5,Software Engineer,Finance,"Opportunities for growth exist, but require patience.",Neutral
+6,Project Manager,Operations,"Opportunities for growth exist, but require patience.",Neutral
+7,Marketing Analyst,Design,Teamwork and collaboration are highly valued here.,Positive
+8,Software Engineer,HR,Great company culture and work-life balance.,Positive
+9,Software Engineer,Finance,Supportive management and opportunities for growth.,Positive
+10,Product Manager,Design,Teamwork and collaboration are highly valued here.,Positive
+11,Product Manager,Marketing,Poor management and lack of transparency.,Negative
+12,HR Manager,Customer Service,"Some teams are great, others not so much.",Neutral
+13,Customer Support,Marketing,"Work is decent, but sometimes repetitive.",Neutral
+14,Product Manager,Operations,"Salary is average, not too high, not too low.",Neutral
+15,Sales Executive,Finance,Challenging but rewarding work with great leadership.,Positive
+16,Software Engineer,IT,Challenging but rewarding work with great leadership.,Positive
+17,Data Scientist,Design,"Work is decent, but sometimes repetitive.",Neutral
+18,UX Designer,Sales,Good pay and benefits. Flexible working hours.,Positive
+19,Customer Support,Finance,Teamwork and collaboration are highly valued here.,Positive
+20,Product Manager,Finance,Micromanagement and outdated policies make work frustrating.,Negative
+21,Software Engineer,Operations,Great company culture and work-life balance.,Positive
+22,Business Analyst,Sales,Good pay and benefits. Flexible working hours.,Positive
+23,Software Engineer,Marketing,Supportive management and opportunities for growth.,Positive
+24,HR Manager,Marketing,"Salary is not competitive, and no real career growth.",Negative
+25,Business Analyst,Sales,Great company culture and work-life balance.,Positive
+26,Customer Support,Sales,Supportive management and opportunities for growth.,Positive
+27,UX Designer,Finance,"Some teams are great, others not so much.",Neutral
+28,Marketing Analyst,Sales,Poor management and lack of transparency.,Negative
+29,Business Analyst,Sales,Micromanagement and outdated policies make work frustrating.,Negative
+30,UX Designer,Operations,Great company culture and work-life balance.,Positive
+31,Customer Support,Design,Teamwork and collaboration are highly valued here.,Positive
+32,Product Manager,HR,"Salary is not competitive, and no real career growth.",Negative
+33,UX Designer,IT,"Long hours and high workload, with little recognition.",Negative
+34,Marketing Analyst,Finance,Good pay and benefits. Flexible working hours.,Positive
+35,Marketing Analyst,Customer Service,Teamwork and collaboration are highly valued here.,Positive
+36,HR Manager,Finance,Poor management and lack of transparency.,Negative
+37,HR Manager,Design,Great company culture and work-life balance.,Positive
+38,Product Manager,IT,Challenging but rewarding work with great leadership.,Positive
+39,Customer Support,Design,Poor management and lack of transparency.,Negative
+40,Data Scientist,Customer Service,Teamwork and collaboration are highly valued here.,Positive
+41,Marketing Analyst,Finance,"Salary is average, not too high, not too low.",Neutral
+42,UX Designer,Finance,Good pay and benefits. Flexible working hours.,Positive
+43,Product Manager,HR,Supportive management and opportunities for growth.,Positive
+44,Customer Support,Marketing,"Salary is average, not too high, not too low.",Neutral
+45,HR Manager,Sales,Great company culture and work-life balance.,Positive
+46,HR Manager,Sales,Supportive management and opportunities for growth.,Positive
+47,Data Scientist,Customer Service,Challenging but rewarding work with great leadership.,Positive
+48,Product Manager,Marketing,"Work is decent, but sometimes repetitive.",Neutral
+49,Sales Executive,Operations,"Some teams are great, others not so much.",Neutral
+50,UX Designer,Design,Teamwork and collaboration are highly valued here.,Positive
+51,Sales Executive,Operations,Teamwork and collaboration are highly valued here.,Positive
+52,Sales Executive,Marketing,Supportive management and opportunities for growth.,Positive
+53,Sales Executive,Sales,"Salary is average, not too high, not too low.",Neutral
+54,Customer Support,Operations,Teamwork and collaboration are highly valued here.,Positive
+55,Project Manager,IT,"Long hours and high workload, with little recognition.",Negative
+56,Business Analyst,Finance,Great company culture and work-life balance.,Positive
+57,Marketing Analyst,IT,Micromanagement and outdated policies make work frustrating.,Negative
+58,HR Manager,Sales,Supportive management and opportunities for growth.,Positive
+59,UX Designer,Operations,Great company culture and work-life balance.,Positive
+60,HR Manager,IT,"Long hours and high workload, with little recognition.",Negative
+61,HR Manager,Marketing,"Salary is average, not too high, not too low.",Neutral
+62,Data Scientist,Sales,"Salary is average, not too high, not too low.",Neutral
+63,Data Scientist,IT,"Work is decent, but sometimes repetitive.",Neutral
+64,Software Engineer,IT,Teamwork and collaboration are highly valued here.,Positive
+65,HR Manager,Marketing,"Management is okay, but could improve communication.",Neutral
+66,Software Engineer,Finance,Great company culture and work-life balance.,Positive
+67,UX Designer,Operations,Micromanagement and outdated policies make work frustrating.,Negative
+68,UX Designer,Sales,"Long hours and high workload, with little recognition.",Negative
+69,UX Designer,Design,Teamwork and collaboration are highly valued here.,Positive
+70,HR Manager,Operations,Poor management and lack of transparency.,Negative
+71,Project Manager,IT,"Long hours and high workload, with little recognition.",Negative
+72,HR Manager,Design,Poor management and lack of transparency.,Negative
+73,Marketing Analyst,IT,"Work is decent, but sometimes repetitive.",Neutral
+74,Software Engineer,HR,Great company culture and work-life balance.,Positive
+75,Business Analyst,Finance,"Management is okay, but could improve communication.",Neutral
+76,Marketing Analyst,IT,Good pay and benefits. Flexible working hours.,Positive
+77,UX Designer,Design,Supportive management and opportunities for growth.,Positive
+78,Software Engineer,HR,Supportive management and opportunities for growth.,Positive
+79,Software Engineer,Finance,"Opportunities for growth exist, but require patience.",Neutral
+80,Data Scientist,Sales,"Opportunities for growth exist, but require patience.",Neutral
+81,Sales Executive,HR,Toxic work environment with high turnover.,Negative
+82,Product Manager,Customer Service,Micromanagement and outdated policies make work frustrating.,Negative
+83,Software Engineer,Marketing,"Opportunities for growth exist, but require patience.",Neutral
+84,Software Engineer,Marketing,"Some teams are great, others not so much.",Neutral
+85,Project Manager,Operations,Poor management and lack of transparency.,Negative
+86,Software Engineer,Finance,Supportive management and opportunities for growth.,Positive
+87,UX Designer,HR,Great company culture and work-life balance.,Positive
+88,Data Scientist,Marketing,Challenging but rewarding work with great leadership.,Positive
+89,Product Manager,Sales,Toxic work environment with high turnover.,Negative
+90,UX Designer,Sales,"Work is decent, but sometimes repetitive.",Neutral
+91,HR Manager,Design,Great company culture and work-life balance.,Positive
+92,Marketing Analyst,Sales,"Salary is not competitive, and no real career growth.",Negative
+93,Business Analyst,Design,Good pay and benefits. Flexible working hours.,Positive
+94,UX Designer,Sales,"Work is decent, but sometimes repetitive.",Neutral
+95,Project Manager,Sales,Teamwork and collaboration are highly valued here.,Positive
+96,Customer Support,Operations,"Opportunities for growth exist, but require patience.",Neutral
+97,Data Scientist,Sales,Teamwork and collaboration are highly valued here.,Positive
+98,Data Scientist,Sales,Challenging but rewarding work with great leadership.,Positive
+99,Data Scientist,Operations,"Work is decent, but sometimes repetitive.",Neutral
+100,UX Designer,Finance,Challenging but rewarding work with great leadership.,Positive
+101,HR Manager,IT,"Management is okay, but could improve communication.",Neutral
+102,Project Manager,IT,"Long hours and high workload, with little recognition.",Negative
+103,UX Designer,HR,"Some teams are great, others not so much.",Neutral
+104,Business Analyst,IT,"Some teams are great, others not so much.",Neutral
+105,HR Manager,Sales,"Salary is average, not too high, not too low.",Neutral
+106,HR Manager,Design,Toxic work environment with high turnover.,Negative
+107,Marketing Analyst,IT,"Salary is not competitive, and no real career growth.",Negative
+108,Business Analyst,Customer Service,"Some teams are great, others not so much.",Neutral
+109,HR Manager,Finance,"Management is okay, but could improve communication.",Neutral
+110,Business Analyst,Finance,"Salary is average, not too high, not too low.",Neutral
+111,Customer Support,Operations,"Long hours and high workload, with little recognition.",Negative
+112,Data Scientist,Finance,"Opportunities for growth exist, but require patience.",Neutral
+113,Software Engineer,Marketing,Toxic work environment with high turnover.,Negative
+114,Project Manager,IT,Great company culture and work-life balance.,Positive
+115,Project Manager,Operations,Good pay and benefits. Flexible working hours.,Positive
+116,Sales Executive,Marketing,"Work is decent, but sometimes repetitive.",Neutral
+117,Data Scientist,Design,Teamwork and collaboration are highly valued here.,Positive
+118,Data Scientist,HR,Micromanagement and outdated policies make work frustrating.,Negative
+119,Business Analyst,Sales,"Work is decent, but sometimes repetitive.",Neutral
+120,Business Analyst,Customer Service,"Some teams are great, others not so much.",Neutral
+121,UX Designer,Customer Service,Supportive management and opportunities for growth.,Positive
+122,Project Manager,Marketing,"Salary is average, not too high, not too low.",Neutral
+123,HR Manager,Marketing,Micromanagement and outdated policies make work frustrating.,Negative
+124,Data Scientist,Operations,"Long hours and high workload, with little recognition.",Negative
+125,Product Manager,Customer Service,Challenging but rewarding work with great leadership.,Positive
+126,Data Scientist,Design,Supportive management and opportunities for growth.,Positive
+127,HR Manager,HR,Challenging but rewarding work with great leadership.,Positive
+128,Software Engineer,Operations,"Opportunities for growth exist, but require patience.",Neutral
+129,Data Scientist,Operations,Teamwork and collaboration are highly valued here.,Positive
+130,HR Manager,HR,Teamwork and collaboration are highly valued here.,Positive
+131,Sales Executive,IT,Micromanagement and outdated policies make work frustrating.,Negative
+132,Software Engineer,Sales,"Salary is not competitive, and no real career growth.",Negative
+133,Marketing Analyst,Finance,Challenging but rewarding work with great leadership.,Positive
+134,Data Scientist,Customer Service,Supportive management and opportunities for growth.,Positive
+135,Business Analyst,Design,Toxic work environment with high turnover.,Negative
+136,Customer Support,Design,Supportive management and opportunities for growth.,Positive
+137,Project Manager,Finance,"Work is decent, but sometimes repetitive.",Neutral
+138,Marketing Analyst,Marketing,Great company culture and work-life balance.,Positive
+139,Customer Support,Marketing,Poor management and lack of transparency.,Negative
+140,Product Manager,Sales,"Salary is average, not too high, not too low.",Neutral
+141,Sales Executive,Finance,Teamwork and collaboration are highly valued here.,Positive
+142,HR Manager,Customer Service,"Opportunities for growth exist, but require patience.",Neutral
+143,Sales Executive,Sales,Supportive management and opportunities for growth.,Positive
+144,Data Scientist,Operations,"Work is decent, but sometimes repetitive.",Neutral
+145,Marketing Analyst,Sales,"Salary is average, not too high, not too low.",Neutral
+146,Sales Executive,HR,Poor management and lack of transparency.,Negative
+147,Customer Support,Finance,Great company culture and work-life balance.,Positive
+148,Sales Executive,IT,"Work is decent, but sometimes repetitive.",Neutral
+149,Customer Support,HR,"Management is okay, but could improve communication.",Neutral
+150,Product Manager,Customer Service,"Salary is average, not too high, not too low.",Neutral
+151,Product Manager,Design,"Long hours and high workload, with little recognition.",Negative
+152,HR Manager,IT,"Some teams are great, others not so much.",Neutral
+153,Marketing Analyst,HR,Great company culture and work-life balance.,Positive
+154,Sales Executive,Marketing,"Salary is not competitive, and no real career growth.",Negative
+155,Software Engineer,IT,Challenging but rewarding work with great leadership.,Positive
+156,Sales Executive,Customer Service,"Opportunities for growth exist, but require patience.",Neutral
+157,Product Manager,Finance,Poor management and lack of transparency.,Negative
+158,Data Scientist,IT,Poor management and lack of transparency.,Negative
+159,Marketing Analyst,Marketing,Great company culture and work-life balance.,Positive
+160,Business Analyst,Sales,"Opportunities for growth exist, but require patience.",Neutral
+161,Customer Support,Marketing,"Salary is not competitive, and no real career growth.",Negative
+162,Software Engineer,Customer Service,Micromanagement and outdated policies make work frustrating.,Negative
+163,Product Manager,IT,Teamwork and collaboration are highly valued here.,Positive
+164,HR Manager,IT,"Management is okay, but could improve communication.",Neutral
+165,Data Scientist,Finance,"Work is decent, but sometimes repetitive.",Neutral
+166,Sales Executive,Finance,"Opportunities for growth exist, but require patience.",Neutral
+167,HR Manager,Marketing,Teamwork and collaboration are highly valued here.,Positive
+168,Marketing Analyst,Sales,Great company culture and work-life balance.,Positive
+169,Sales Executive,Marketing,"Some teams are great, others not so much.",Neutral
+170,Marketing Analyst,Operations,"Long hours and high workload, with little recognition.",Negative
+171,Product Manager,Sales,"Some teams are great, others not so much.",Neutral
+172,HR Manager,Design,"Salary is average, not too high, not too low.",Neutral
+173,Data Scientist,HR,"Opportunities for growth exist, but require patience.",Neutral
+174,Data Scientist,Marketing,"Long hours and high workload, with little recognition.",Negative
+175,Customer Support,Sales,Micromanagement and outdated policies make work frustrating.,Negative
+176,Business Analyst,Marketing,Teamwork and collaboration are highly valued here.,Positive
+177,Project Manager,IT,Good pay and benefits. Flexible working hours.,Positive
+178,Software Engineer,HR,Teamwork and collaboration are highly valued here.,Positive
+179,Customer Support,HR,Toxic work environment with high turnover.,Negative
+180,Software Engineer,Marketing,"Opportunities for growth exist, but require patience.",Neutral
+181,Product Manager,Sales,"Some teams are great, others not so much.",Neutral
+182,Business Analyst,HR,Challenging but rewarding work with great leadership.,Positive
+183,Customer Support,HR,Micromanagement and outdated policies make work frustrating.,Negative
+184,Sales Executive,Operations,"Opportunities for growth exist, but require patience.",Neutral
+185,Software Engineer,Customer Service,"Some teams are great, others not so much.",Neutral
+186,Customer Support,HR,"Salary is not competitive, and no real career growth.",Negative
+187,Business Analyst,Customer Service,Supportive management and opportunities for growth.,Positive
+188,Software Engineer,Customer Service,Poor management and lack of transparency.,Negative
+189,HR Manager,Marketing,Great company culture and work-life balance.,Positive
+190,Business Analyst,Marketing,Great company culture and work-life balance.,Positive
+191,Sales Executive,Marketing,"Management is okay, but could improve communication.",Neutral
+192,UX Designer,Finance,Micromanagement and outdated policies make work frustrating.,Negative
+193,Project Manager,Sales,Great company culture and work-life balance.,Positive
+194,Marketing Analyst,Finance,Good pay and benefits. Flexible working hours.,Positive
+195,Software Engineer,Marketing,Good pay and benefits. Flexible working hours.,Positive
+196,Software Engineer,Design,"Work is decent, but sometimes repetitive.",Neutral
+197,Marketing Analyst,HR,Toxic work environment with high turnover.,Negative
+198,UX Designer,Design,Supportive management and opportunities for growth.,Positive
+199,UX Designer,Design,Micromanagement and outdated policies make work frustrating.,Negative
+200,Marketing Analyst,HR,Micromanagement and outdated policies make work frustrating.,Negative
+201,Data Scientist,Sales,Great company culture and work-life balance.,Positive
+202,Data Scientist,HR,"Some teams are great, others not so much.",Neutral
+203,Sales Executive,IT,"Long hours and high workload, with little recognition.",Negative
+204,Product Manager,Finance,"Work is decent, but sometimes repetitive.",Neutral
+205,Product Manager,Finance,"Some teams are great, others not so much.",Neutral
+206,Sales Executive,Customer Service,Good pay and benefits. Flexible working hours.,Positive
+207,Software Engineer,IT,Great company culture and work-life balance.,Positive
+208,Data Scientist,Finance,"Work is decent, but sometimes repetitive.",Neutral
+209,Software Engineer,HR,Good pay and benefits. Flexible working hours.,Positive
+210,Business Analyst,IT,Teamwork and collaboration are highly valued here.,Positive
+211,Product Manager,Design,Great company culture and work-life balance.,Positive
+212,Sales Executive,Finance,Good pay and benefits. Flexible working hours.,Positive
+213,Sales Executive,Customer Service,"Salary is average, not too high, not too low.",Neutral
+214,Business Analyst,Finance,Teamwork and collaboration are highly valued here.,Positive
+215,HR Manager,Operations,Micromanagement and outdated policies make work frustrating.,Negative
+216,Data Scientist,Sales,Poor management and lack of transparency.,Negative
+217,Product Manager,HR,Supportive management and opportunities for growth.,Positive
+218,Project Manager,Operations,"Some teams are great, others not so much.",Neutral
+219,Sales Executive,Marketing,"Opportunities for growth exist, but require patience.",Neutral
+220,HR Manager,IT,"Work is decent, but sometimes repetitive.",Neutral
+221,Product Manager,Sales,Challenging but rewarding work with great leadership.,Positive
+222,UX Designer,IT,"Salary is average, not too high, not too low.",Neutral
+223,UX Designer,Finance,"Salary is average, not too high, not too low.",Neutral
+224,Project Manager,Customer Service,"Some teams are great, others not so much.",Neutral
+225,Customer Support,IT,Challenging but rewarding work with great leadership.,Positive
+226,Software Engineer,IT,Supportive management and opportunities for growth.,Positive
+227,Data Scientist,Design,"Some teams are great, others not so much.",Neutral
+228,Business Analyst,Sales,Great company culture and work-life balance.,Positive
+229,HR Manager,Design,Great company culture and work-life balance.,Positive
+230,Marketing Analyst,HR,"Some teams are great, others not so much.",Neutral
+231,UX Designer,Sales,Poor management and lack of transparency.,Negative
+232,Sales Executive,Finance,"Long hours and high workload, with little recognition.",Negative
+233,HR Manager,IT,Good pay and benefits. Flexible working hours.,Positive
+234,Business Analyst,Marketing,Teamwork and collaboration are highly valued here.,Positive
+235,Software Engineer,Customer Service,Poor management and lack of transparency.,Negative
+236,Marketing Analyst,Sales,"Long hours and high workload, with little recognition.",Negative
+237,Business Analyst,Operations,"Long hours and high workload, with little recognition.",Negative
+238,Software Engineer,Customer Service,"Work is decent, but sometimes repetitive.",Neutral
+239,UX Designer,Sales,Great company culture and work-life balance.,Positive
+240,Project Manager,Marketing,Teamwork and collaboration are highly valued here.,Positive
+241,Data Scientist,HR,"Some teams are great, others not so much.",Neutral
+242,Customer Support,Customer Service,Challenging but rewarding work with great leadership.,Positive
+243,Business Analyst,Marketing,"Salary is average, not too high, not too low.",Neutral
+244,Marketing Analyst,Marketing,"Work is decent, but sometimes repetitive.",Neutral
+245,Sales Executive,Customer Service,"Some teams are great, others not so much.",Neutral
+246,Product Manager,Customer Service,Teamwork and collaboration are highly valued here.,Positive
+247,Data Scientist,Marketing,Micromanagement and outdated policies make work frustrating.,Negative
+248,Business Analyst,Customer Service,Good pay and benefits. Flexible working hours.,Positive
+249,UX Designer,Design,Supportive management and opportunities for growth.,Positive
+250,Customer Support,Finance,"Salary is average, not too high, not too low.",Neutral
